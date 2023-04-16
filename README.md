@@ -1,4 +1,4 @@
-## **GPT-2 based PyTorch Text-Generator for ChatGPT Tweets**
+## **GPT-2 Based PyTorch Text-Generator for ChatGPT Tweets**
 
 ## Quick Start
 
